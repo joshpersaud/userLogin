@@ -1,4 +1,4 @@
-package main.com.userLogin.web.util;
+package main.com.userLogin.util;
 
 import java.util.Properties;
 
@@ -8,7 +8,7 @@ import org.hibernate.cfg.Configuration;
 import org.hibernate.cfg.Environment;
 import org.hibernate.service.ServiceRegistry;
 
-import main.com.userLogin.web.model.User;
+import main.com.userLogin.model.User;
 
 /**
  * Java based configuration

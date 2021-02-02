@@ -1,4 +1,4 @@
-package main.com.userLogin.web.model;
+package main.com.userLogin.model;
 
 import java.io.Serializable;
 

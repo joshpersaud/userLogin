@@ -1,10 +1,10 @@
-package main.com.userLogin.web.dao;
+package main.com.userLogin.dao;
 
 import org.hibernate.Session;
 import org.hibernate.Transaction;
 
-import main.com.userLogin.web.model.User;
-import main.com.userLogin.web.util.HibernateUtil;
+import main.com.userLogin.model.User;
+import main.com.userLogin.util.HibernateUtil;
 
 public class UserDao {
 
